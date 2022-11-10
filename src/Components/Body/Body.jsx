@@ -5,6 +5,7 @@ import Card from 'react-bootstrap/Card';
 const Body = () => {
     return (
       <div>
+        <h1>WELCOME TO THE SITE </h1>
           <Card style={{ width: '18rem' }}>
             <Card.Img variant="top" src="holder.js/100px180" />
             <Card.Body>
