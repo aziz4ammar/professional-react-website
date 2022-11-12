@@ -9,7 +9,7 @@ const Body = ({el}) => {
           <Card style={{ width: '18rem' }}>
             <Card.Img variant="top" src="holder.js/100px180" />
             <Card.Body>
-              <Card.Title>{}</Card.Title>
+              <Card.Title>{el.name}</Card.Title>
               <Card.Text>
                {}
               </Card.Text>
