@@ -1,5 +1,5 @@
 export const tab = [
     {id:Math.random() , image:"",
-name:"",Price:10,cont:1,
+name:"title",Price:10,cont:1,
 }
 ]

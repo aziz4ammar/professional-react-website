@@ -2,7 +2,7 @@ import React from 'react'
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 
-const Body = () => {
+const Body = ({el}) => {
     return (
       <div>
         <h1>WELCOME TO THE SITE </h1>
