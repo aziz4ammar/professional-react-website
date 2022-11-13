@@ -11,7 +11,7 @@ const Body = ({el}) => {
             <Card.Body>
               <Card.Title>{el.name}</Card.Title>
               <Card.Text>
-               {}
+               {el.text}
               </Card.Text>
               <Button variant="primary">Go somewhere</Button>
             </Card.Body>
