@@ -4,8 +4,6 @@ import Card from 'react-bootstrap/Card';
 
 const Body = ({el}) => {
     return (
-      <div>
-        <h1>WELCOME TO THE SITE </h1>
           <Card style={{ width: '18rem' }}>
             <Card.Img variant="top" src={el.image} />
             <Card.Body>
@@ -16,7 +14,6 @@ const Body = ({el}) => {
               <Button variant="primary">Go somewhere</Button>
             </Card.Body>
           </Card>
-      </div>
       );
 }
 
