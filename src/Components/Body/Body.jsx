@@ -1,7 +1,7 @@
 import React from 'react'
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
-
+import "./body.css"
 const Body = ({el}) => {
     return (
             <Card style={{ width: '18rem' }}>
@@ -11,7 +11,7 @@ const Body = ({el}) => {
                 <Card.Text>
                  {el.text}
                 </Card.Text>
-                <Button variant="primary">Go somewhere</Button>
+                <Button className='btn' variant="primary">Go somewhere</Button>
               </Card.Body>
             </Card>
       );

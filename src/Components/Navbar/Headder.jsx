@@ -36,6 +36,8 @@ function CollapsibleExample() {
           </Navbar.Collapse>
         </Container>
       </Navbar>
+      <br />
+      <br />
       <h1>WELCOME TO THE SITE </h1>
     </div>
   );

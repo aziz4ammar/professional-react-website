@@ -1,0 +1,13 @@
+.btn{
+    background-color: black;
+    border-color: darkgray;
+}
+.btn:hover{
+    background-color: aliceblue;
+    color: black;
+    border-color: black;
+}
+/* .btn {
+    background-color: black;
+    border-color: darkgray;
+} */
