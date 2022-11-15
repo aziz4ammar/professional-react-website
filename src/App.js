@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <CollapsibleExample/>
-      {info.map((el,i)=><Body el={el} key={i}/>)}
+      <div className='ab'>{info.map((el,i)=><Body el={el} key={i}/>)}</div>
     </div>
   );
 }
