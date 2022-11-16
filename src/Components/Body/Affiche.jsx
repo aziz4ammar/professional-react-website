@@ -2,7 +2,11 @@ import React from 'react'
 
 const Affiche = () => {
   return (
-    <div></div>
+    <div>
+        <img className='img' src="" alt="" />
+        <h1></h1>
+        <p></p>
+    </div>
   )
 }
 
