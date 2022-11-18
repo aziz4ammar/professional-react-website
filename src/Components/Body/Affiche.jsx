@@ -4,8 +4,8 @@ const Affiche = () => {
   return (
     <div>
         <img className='img' src={as} alt="" />
-        <h1></h1>
-        <p></p>
+        <h1>iPad</h1>
+        <p>Lovable. Drawable. Magical.</p>
     </div>
   )
 }
