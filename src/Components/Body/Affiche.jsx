@@ -6,7 +6,8 @@ const Affiche = () => {
         <img className='img' src={as} alt="" />
         <h1>iPad</h1>
         <p>Lovable. Drawable. Magical.</p>
-        <p><a href="#">Learn more</a><a href="#">Buy</a></p>
+        <p><a href="#">Learn more</a></p>
+        <p><a href="#">Buy</a></p>
     </div>
   )
 }
