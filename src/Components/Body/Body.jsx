@@ -14,6 +14,7 @@ const Body = ({el}) => {
                 <Button className='btn' variant="primary">Go somewhere</Button>
               </Card.Body>
             </Card>
+            
       );
 }
 
