@@ -10,7 +10,7 @@ const Affiche = () => {
         <p><a href="www.zanga.zenga">Learn more</a></p>
         <p><a href="www.zanga.zenga">Buy</a></p>
         <div>
-            <img src="" alt="" />
+            <img src={az} alt="" />
         </div>
     </div>
   )
