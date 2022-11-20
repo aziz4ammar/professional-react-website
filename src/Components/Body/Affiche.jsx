@@ -1,6 +1,7 @@
 import React from 'react'
 import as from "../img/as.jpg";
 import az from "../img/az.png";
+import "./affiche.css"
 const Affiche = () => {
   return (
     <div>
