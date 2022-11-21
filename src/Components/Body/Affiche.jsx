@@ -15,6 +15,7 @@ const Affiche = () => {
             <p>Big and bigger</p>
             <p><a href="www.zanga.zenga">Learn more</a></p>
             <p><a href="www.zanga.zenga">Buy</a></p>
+            <img src={ar} alt="" />
         </div>
     </div>
   )
