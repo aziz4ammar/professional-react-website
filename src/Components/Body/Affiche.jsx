@@ -1,6 +1,6 @@
 import React from 'react'
 import as from "../img/as.jpg";
-import az from "../img/az.png";
+import ar from "../img/ar.png";
 import "./affiche.css"
 const Affiche = () => {
   return (
@@ -11,7 +11,10 @@ const Affiche = () => {
         <p><a href="www.zanga.zenga">Learn more</a></p>
         <p><a href="www.zanga.zenga">Buy</a></p>
         <div>
-            <img src={az} alt="" />
+            <h1>iPhone 14</h1>
+            <p>Big and bigger</p>
+            <p><a href="www.zanga.zenga">Learn more</a></p>
+            <p><a href="www.zanga.zenga">Buy</a></p>
         </div>
     </div>
   )
