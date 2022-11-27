@@ -4,20 +4,7 @@ import ar from "../img/ar.png";
 import "./affiche.css"
 const Affiche = () => {
   return (
-    <div>
-        <img className='img' src={as} alt="" />
-        <h1>iPad</h1>
-        <p>Lovable. Drawable. Magical.</p>
-        <p><a href="www.zanga.zenga">Learn more</a></p>
-        <p><a href="www.zanga.zenga">Buy</a></p>
-        <div className='div2'>
-            <h1>iPhone 14</h1>
-            <p>Big and bigger</p>
-            <p><a href="www.zanga.zenga">Learn more</a></p>
-            <p><a href="www.zanga.zenga">Buy</a></p>
-            <img src={ar} alt="" />
-        </div>
-    </div>
+    <div></div>
   )
 }
 
