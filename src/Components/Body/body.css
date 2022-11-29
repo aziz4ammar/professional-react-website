@@ -7,6 +7,11 @@
     color: black;
     border-color: black;
 }
+/* .card:hover{
+    box-shadow: -1px -6px 32px 0px rgba(0,0,0,0.76);
+-webkit-box-shadow: -1px -6px 32px 0px rgba(0,0,0,0.76);
+-moz-box-shadow: -1px -6px 32px 0px rgba(0,0,0,0.76);
+} */
 /* .btn {
     background-color: black;
     border-color: darkgray;
