@@ -11,6 +11,7 @@ const Body = ({el}) => {
                 <Card.Text>
                  {el.text}
                 </Card.Text>
+                <Button className='btn' variant="primary">Learn more</Button>
                 <Button className='btn' variant="primary">Go somewhere</Button>
               </Card.Body>
             </Card>
