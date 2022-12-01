@@ -12,7 +12,7 @@ const Body = ({el}) => {
                  {el.text}
                 </Card.Text>
                 <Button className='btn' variant="primary">Learn more</Button>
-                <Button className='btn' variant="primary">Go somewhere</Button>
+                <Button className='btn' variant="primary">Add to cart</Button>
               </Card.Body>
             </Card>
             
