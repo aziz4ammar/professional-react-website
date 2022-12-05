@@ -7,5 +7,8 @@ name:"iPhone 14 Pro Max",text:"128GB-Gold",Price:10,cont:1,
 },
 {id:Math.random() , image:"https://s13emagst.akamaized.net/products/48592/48591241/images/res_427992596019b4690e24dcda076fff6a.jpg?width=450&height=450&hash=A7B80170EC117972647BA60E646C15E0",
 name:"iPhone 14 Pro Max",text:"128GB-Silver",Price:10,cont:1,
-}
+},
+{id:Math.random() , image:"",
+name:"iPhone 14 Pro Max",text:"128GB-Silver",Price:10,cont:1,
+},
 ]
