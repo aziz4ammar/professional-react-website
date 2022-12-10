@@ -14,4 +14,7 @@ name:"iPhone 14 Pro Max",text:"128GB-Deep Purple",Price:10,cont:1,
 {id:Math.random() , image:"https://s13emagst.akamaized.net/products/48592/48591242/images/res_ee69b28e2cc930d3bbdd088baaa92556.jpg?width=450&height=450&hash=7175C9CCBD2320BB1C2937B7BEFF8D5A",
 name:"iPhone 14 Pro",text:"128GB-Black",Price:10,cont:1,
 },
+{id:Math.random() , image:"https://s13emagst.akamaized.net/products/48592/48591242/images/res_ee69b28e2cc930d3bbdd088baaa92556.jpg?width=450&height=450&hash=7175C9CCBD2320BB1C2937B7BEFF8D5A",
+name:"iPhone 14 Pro",text:"128GB-Gold",Price:10,cont:1,
+},
 ]
