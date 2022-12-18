@@ -15,6 +15,9 @@
   height: 40vmin;
   pointer-events: none;
 }
+.card{
+  margin-bottom: 35px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
