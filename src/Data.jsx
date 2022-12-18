@@ -24,6 +24,6 @@ name:"iPhone 14 Pro",text:"128GB-Silver",Price:10,cont:1,
 name:"iPhone 14 Pro",text:"128GB-Deep Purple",Price:10,cont:1,
 },
 {id:Math.random() , image:"https://s13emagst.akamaized.net/products/40685/40684428/images/res_0527b4f237cdaab2544c0f8e58980ac9.jpg?width=450&height=450&hash=C8ECD128EC5685A5CB43CAB8777EEFD6",
-name:"iPhone 13 pro max",text:"128GB-Deep Purple",Price:10,cont:1,
+name:"iPhone 13 pro max",text:"128GB-Graphite",Price:10,cont:1,
 },
 ]
