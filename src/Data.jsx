@@ -39,6 +39,6 @@ name:"iPhone 13 pro max",text:"128GB-Sierra Blue",Price:10,cont:1,
 name:"iPhone 13 pro",text:"128GB-Graphite",Price:10,cont:1,
 },
 {id:Math.random() , image:"https://s13emagst.akamaized.net/products/40685/40684397/images/res_9aa260aaaa84abf7f2a3db2bd2f85a8e.jpg?width=450&height=450&hash=E0DAEFC55242E20912D93D61E9D3C782",
-name:"iPhone 13 pro",text:"128GB-Graphite",Price:10,cont:1,
+name:"iPhone 13 pro",text:"128GB-Gold",Price:10,cont:1,
 },
 ]
