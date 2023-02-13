@@ -34,7 +34,7 @@ function CollapsibleExample() {
               </Nav.Link>
             </Nav>
           </Navbar.Collapse>
-          {/* <a href="#"><img className='abc' src={abc} alt="" /></a> */}
+          <a href="#"><img className='abc' src={abc} alt="" /></a>
         </Container>
       </Navbar>
       <br />
