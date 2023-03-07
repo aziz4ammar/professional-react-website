@@ -4,7 +4,9 @@ import ar from "../img/ar.png";
 import "./affiche.css"
 const Affiche = () => {
   return (
-    <div></div>
+    <div>
+      <h1></h1>
+    </div>
   )
 }
 
