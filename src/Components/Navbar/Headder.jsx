@@ -39,7 +39,7 @@ function CollapsibleExample() {
       </Navbar>
       <br />
       <br />
-      <h1>WELCOME TO THE SITE </h1>
+      {/* <h1>WELCOME TO THE SITE </h1> */}
     </div>
   );
 }
